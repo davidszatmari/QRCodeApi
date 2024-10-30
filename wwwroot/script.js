@@ -6,14 +6,11 @@ async function generateQRCode() {
     return;
   }
 
-  const response = await fetch(
-    "https://localhost:7056/api/QRCodeApi/generate",
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text: text }),
-    }
-  );
+  const response = await fetch("http://localhost:5133/api/QRCodeApi/generate", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text: text }),
+  });
 
   if (response.ok) {
     const result = await response.json();
