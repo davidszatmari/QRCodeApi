@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "nni8KMX40jkx2z5H7/e9FigrTUxnx+nm5ZBgeQ9pMXw=",
+  "Source": "QRCodeApi",
+  "BasePath": "_content/QRCodeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QRCodeApi\\wwwroot",
+      "Source": "QRCodeApi",
+      "ContentRoot": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\",
+      "BasePath": "_content/QRCodeApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\index.html",
+      "SourceId": "QRCodeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\",
+      "BasePath": "_content/QRCodeApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\script.js",
+      "SourceId": "QRCodeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\",
+      "BasePath": "_content/QRCodeApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\style.css",
+      "SourceId": "QRCodeApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\David\\source\\repos\\QRCodeApi\\QRCodeApi\\wwwroot\\",
+      "BasePath": "_content/QRCodeApi",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
